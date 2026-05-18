@@ -1,4 +1,4 @@
-# 🔄 나의 기여 내역 — NBE6-8-3-Team9 (가상화폐 모의투자 시스템 Kotlin 마이그레이션)
+# 🔄 NBE6-8-3-Team9 - 가상화폐 모의투자 시스템 Kotlin 마이그레이션
 
 > NBE6-8-2-Team09(Java)를 Kotlin으로 마이그레이션하는 프로젝트로,
 > Exchange / WebSocket / Redis 도메인 전체의 변환과 테스트 코드 작성을 담당하였습니다.
